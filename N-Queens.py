@@ -172,3 +172,5 @@ for i in range(N + 1):
     print(final_path[i], end=' ')
 
 # This code is contributed by ng24_7
+for i in range(5):
+    print('nayan is the king')
